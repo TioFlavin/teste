@@ -4293,8 +4293,8 @@ function processMessage($message) {
     $forward_from_name = $message['reply_to_message']['forward_from']['first_name'];
     $forward_from_last_name = $message['reply_to_message']['forward_from']['last_name'];
     $forward_from_user = $message['reply_to_message']['forward_from']['username'];       
-    $adm = "1484706029";
-    $adm2 = "902983459";
+    $adm = "5030535253";
+    $adm2 = "5030535253";
 
     date_default_timezone_set('America/Recife');
     $diasemana = array('Domingo', 'Segunda-feira', 'Terça-feira', 'Quarta-feira', 'Quinta-feira', 'Sexta-feira', 'Sabado');
